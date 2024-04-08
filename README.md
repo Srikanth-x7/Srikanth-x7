@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srikanth-x7
-- 👀 I’m interested in software 
-- 🌱 I’m currently learning programming languages 
+- 👀 I’m interested in prompt engineering
+- 🌱I'm Learning Prompts to enhance ai outputs
 - 💞️ I’m looking to work in software companies 
 - 📫 reach me @srikanth.v7169@gmail.com,
 
